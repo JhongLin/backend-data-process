@@ -1,0 +1,10 @@
+Refuel                   2016.01.12   2016.01.09   100   已完成     j00001   日常     NT$70
+ds                       2016.01.13   2016.01.12   100   已完成     j00002   工作     test
+sp                       9999.99.99   2016.01.14   50    執行中     j00003   工作     finalexam
+earPhone                 9999.99.99   2016.01.15   0     未開始     j00004   娛樂     EX750AP
+sleep                    9999.99.99   2016.01.14   0     未開始     j00005   日常     IneedSleep
+washDishes               9999.99.99   2016.01.15   50    執行中     j00006   日常     clothesWashing
+Vote                     2016.01.17   2016.01.16   100   已完成     j00007   其它     presidentVoteOfTaiwan
+GoHome                   9999.99.99   2016.01.20   10    執行中     j00008   日常     BackHome
+HomeParty                9999.99.99   2016.01.18   3     執行中     j00009   娛樂     AtFriend'sHouse
+Scanner                  9999.99.99   2017.01.02   70    執行中     j00010   工作     期末專題
